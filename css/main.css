@@ -72,12 +72,14 @@
             width: 100%;
             float: left;
             border-bottom: 1px solid #fff;
+            text-align: center;
         }
         .footer-texts {
             display: inline-block;
             width: 600px;
             float: left;
             margin-left: calc((100% - 600px) / 2);
+            text-align: center;
         }
 
 @media (max-width: 1100px) {
