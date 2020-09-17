@@ -81,6 +81,21 @@
             margin-left: calc((100% - 600px) / 2);
             text-align: center;
         }
+            .footer-texts > .logo {
+
+            }
+            .copyright {
+
+            }
+                .copyright > .texts {
+
+                }
+            .footer-texts > p {
+
+            }
+            .footer-texts a {
+
+            }
 
 @media (max-width: 1100px) {
     .row {
